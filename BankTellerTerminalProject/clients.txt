@@ -1,0 +1,5 @@
+Don Tran	914 PM Address, City, State	439827483	New Employer	32500	34567897	31944	checking
+First Last	123 Address, Auburn AL 12345	234-56-7890	IBM	267000	NA	0	NA
+Test Name	456 Something Rd, Opelika, AL	234-56-3476	Yahoo	30000	98765432	14343	checking
+Second Test	678 Brown Duck Rd, Tuskegee, AL	234565432	CyberDyne	98000	23456789	32000	savings
+New Test	123 Address Way	123456789	AU	98000	NA	0	NA
